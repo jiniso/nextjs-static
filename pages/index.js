@@ -5,9 +5,7 @@ export default () => (
   <main>
     <Header />
     <section>
-      <Link href="/about">
-        <a>Go to About Me</a>
-      </Link>
+      <h1>glyph.io : Coming soon</h1>
     </section>
   </main>
 );
