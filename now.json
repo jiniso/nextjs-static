@@ -2,5 +2,5 @@
   "version":2,
   "name":"nextjs-static",
   "builds":[{"src":"package.json","use":"@now/static-build"}],
-  "alias": "glyph.io"
+  "alias": "express.glyph.io"
 }
